@@ -20,7 +20,7 @@ dev-lang/rust nightly rust-analyzer rust-src rustfmt
 net-misc/curl http2 ssl
 
 # Core packages
-app-crypt/gnupg smartcard tools
+app-crypt/gnupg smartcard ssl tools
 sys-block/parted device-mapper
 dev-vcs/git gpg highlight curl
 
